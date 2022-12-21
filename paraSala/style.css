@@ -16,7 +16,7 @@ h4{
 /* inicio cabeçalho */
 .header{
     border: 1px solid;
-    border-color:yellow;
+    border-color:blue;
     background-color: black;
     color: bisque;
     font-family: 'Comic Sans';
@@ -28,6 +28,7 @@ h4{
 /* inicio aside */
 
 .divfloat{
+    
     float: left;
     background-color: bisque;
     width: 25%;
@@ -49,7 +50,7 @@ aside img{
 
 .footer{
     border: 1px solid;
-    border-color:gold;
+    border-color:black;
     background-color: black;
     color: bisque;
     font-family: 'Comic Sans';
@@ -63,20 +64,20 @@ aside img{
    width: 74%;
    float: right;
     border: 1px solid;
-    border-color: darkblue;
+    border-color: black;
     margin-top: 5px;
 }   
 .experiencia{
     width:74%;
    float: right;
     border: 1px solid;
-    border-color: darkblue;
+    border-color: black;
     margin-top: 5px;
 } 
 .educa{
     width: 74%;
     float: right;
     border: 1px solid;
-    border-color: rgb(0, 139, 21);
+    border-color: black;
     margin-top: 5px;   
 }
